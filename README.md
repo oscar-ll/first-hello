@@ -1,2 +1,3 @@
 # first-hello
-Just for fun
+Hello，humans.
+just say "hello",and......"good luck man"
